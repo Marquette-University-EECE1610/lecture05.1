@@ -1,1 +1,1 @@
-# lecture-template
+# First lecture of week 5.
